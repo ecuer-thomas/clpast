@@ -8,8 +8,6 @@
                  [javax.servlet/servlet-api "2.5"]
                  [org.clojure/tools.logging "0.3.1"]
                  [log4j/log4j "1.2.17"]
-
-
                  [compojure "1.4.0"]]
   :main ^:skip-aot clopaste.core
   :target-path "target/%s"
